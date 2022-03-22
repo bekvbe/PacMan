@@ -1,4 +1,4 @@
-# inkainvest
+# pacman invest
 
 ## Project setup
 ```
